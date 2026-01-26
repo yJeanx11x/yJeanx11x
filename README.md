@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jean Lucas de Souza 
+# 👩🏻‍💻 Jean Lucas 
 
 
 **`Desenvolvedor Back-end em Formação`**
