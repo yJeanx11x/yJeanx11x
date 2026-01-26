@@ -7,7 +7,7 @@ Me chamo Jean Lucas, sou estudante de Engenharia de Software e concluí o curso 
 
 ---
 
-🚀 Foco Atual
+### 🚀 Foco Atual
 
 Desenvolvimento de APIs REST com Node.js e Express
 
@@ -17,7 +17,7 @@ Estruturação de projetos back-end
 
 Boas práticas, organização de código e versionamento com Git/GitHub
 
-🧠 Linguagens e Tecnologias
+### 🧠 Linguagens e Tecnologias
 
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
