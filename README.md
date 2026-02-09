@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Jean Lucas 
 
 
-**`Desenvolvedor Back-end em Formação`**
+**`Desenvolvedor Back-end Júnior`**
 
 Me chamo Jean Lucas, sou estudante de Engenharia de Software e concluí o curso técnico em Desenvolvimento de Sistemas. Tenho focado minha formação no desenvolvimento back-end, estudando e praticando a criação de APIs REST com Node.js, Express e MySQL, sempre buscando aprender na prática.
 
